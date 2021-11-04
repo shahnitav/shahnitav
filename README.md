@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="https://nitavshah.codes/" target="_blank">Nitav Shah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahnitav.shahnitav">
+# Hi there, I'm <a href="https://nitav.me/" target="_blank">Nitav Shah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahnitav.shahnitav">
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
