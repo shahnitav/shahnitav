@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fakenitav/)
 
 
-## SDE Intern at Syncron AB 
+## Cybersecurity Graduate Student at University of Maryland
 
 - 🎓 Recent Computer Science graduate from Navrachana University
 - :test_tube: Working on Automation, ChatOps and Cybersecurity Projects
