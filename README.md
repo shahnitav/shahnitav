@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="https://nitav.me/" target="_blank">Nitav Shah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahnitav.shahnitav">
+# Hi there, I'm <a href="https://nitav.me/" target="_blank">Nitav Shah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://api.visitorbadge.io/api/visitors?path=shahnitav&countColor=%23f47373">
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -10,10 +10,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fakenitav/)
 
 
-## Cybersecurity Graduate Student at University of Maryland
+## Security Engineer
 
-- 🎓 Recent Computer Science graduate from Navrachana University
-- :test_tube: Working on Automation, ChatOps and Cybersecurity Projects
+- Master of Engineering in Cybersecurity from University of Maryland
+- Bachelor of Computer Science from Navrachana University
+- :test_tube: Working on securing the threat landscape, incident response, detection engineering, automation and building security tools
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links above
 
@@ -53,10 +54,10 @@
   
   <div align="center"> 
      <a href="">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahnitav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+      ![shahnitav's Stats](https://github-readme-stats.vercel.app/api?username=shahnitav&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
     </a>
     <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnitav&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+       ![shahnitav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahnitav&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
     </a>
 </div
   
